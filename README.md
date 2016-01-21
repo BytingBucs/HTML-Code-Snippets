@@ -1,2 +1,2 @@
 # HTML-Code-Snippets
-Snippets of HTML Code for sue.
+Snippets of HTML Code for use.
